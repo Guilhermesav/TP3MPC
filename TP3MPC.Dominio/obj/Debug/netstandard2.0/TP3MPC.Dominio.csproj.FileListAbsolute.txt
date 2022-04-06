@@ -1,0 +1,9 @@
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Dominio\bin\Debug\netstandard2.0\TP3MPC.Dominio.deps.json
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Dominio\bin\Debug\netstandard2.0\TP3MPC.Dominio.dll
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Dominio\bin\Debug\netstandard2.0\TP3MPC.Dominio.pdb
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Dominio\obj\Debug\netstandard2.0\TP3MPC.Dominio.csprojAssemblyReference.cache
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Dominio\obj\Debug\netstandard2.0\TP3MPC.Dominio.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Dominio\obj\Debug\netstandard2.0\TP3MPC.Dominio.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Dominio\obj\Debug\netstandard2.0\TP3MPC.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Dominio\obj\Debug\netstandard2.0\TP3MPC.Dominio.dll
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Dominio\obj\Debug\netstandard2.0\TP3MPC.Dominio.pdb

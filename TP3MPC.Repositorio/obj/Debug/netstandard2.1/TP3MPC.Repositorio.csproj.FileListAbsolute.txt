@@ -1,0 +1,12 @@
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Repositorio\bin\Debug\netstandard2.1\TP3MPC.Repositorio.deps.json
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Repositorio\bin\Debug\netstandard2.1\TP3MPC.Repositorio.dll
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Repositorio\bin\Debug\netstandard2.1\TP3MPC.Repositorio.pdb
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Repositorio\bin\Debug\netstandard2.1\TP3MPC.Dominio.dll
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Repositorio\bin\Debug\netstandard2.1\TP3MPC.Dominio.pdb
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Repositorio\obj\Debug\netstandard2.1\TP3MPC.Repositorio.csprojAssemblyReference.cache
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Repositorio\obj\Debug\netstandard2.1\TP3MPC.Repositorio.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Repositorio\obj\Debug\netstandard2.1\TP3MPC.Repositorio.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Repositorio\obj\Debug\netstandard2.1\TP3MPC.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Repositorio\obj\Debug\netstandard2.1\TP3MPC.Repositorio.csproj.CopyComplete
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Repositorio\obj\Debug\netstandard2.1\TP3MPC.Repositorio.dll
+C:\Users\PICHAU\Desktop\FAculdade\BLOCO 6\MPC\TP3\TP3MPC.Repositorio\obj\Debug\netstandard2.1\TP3MPC.Repositorio.pdb
